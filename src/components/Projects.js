@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import '../App.css';
 
 export default class Projects extends Component {
   render() {
     return (
-      <div id='projects'>
+      <div classname="projects">
         Projects
       </div>
     )

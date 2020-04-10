@@ -1,18 +1,30 @@
 import React, { Component } from 'react';
+import '../App.css';
 
 export default class Navbar extends Component {
   render() {
-
     return (
-      <div classname="Navbar">
-EMILY FENDLER
-<div className="navlinks">
-            <div className="navlink">
+      <header className="Navbar">
+      <div className="navWrapper">
+        <div className="nameWrapper">
+          <h1>
+          EMILY FENDLER
+          </h1>
+        </div>
+
+        <div className="navLinks">
+            <ul className="navlink">
+              <li>
               <a href="#about">ABOUT</a>
+              </li>
+              <li>
               <a href="#projects">PROJECTS</a>
-            </div>
-            </div>
+              </li>
+            </ul>
+        </div>
       </div>
+      </header>
+
     )
 
   }
