@@ -4,7 +4,7 @@ import '../App.css';
 export default class Navbar extends Component {
   render() {
     return (
-      <header className="Navbar">
+      <div className="Navbar">
       <div className="navWrapper">
         <div className="nameWrapper">
           <h1>
@@ -23,7 +23,7 @@ export default class Navbar extends Component {
             </ul>
         </div>
       </div>
-      </header>
+      </div>
 
     )
 

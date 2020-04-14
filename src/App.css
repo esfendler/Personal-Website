@@ -62,13 +62,32 @@
 
 .about {
   display: flex;
-  min-height: 150px;
+  min-height: 400px;
   width: 100%;
-  background-color: #49BEAA;
+  flex-grow: 100;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.aboutContent {
+  display: flex;
+  margin: 0 auto;
+  padding: 2em 2em 1.25em;
 }
 
 .aboutPhoto img {
-  max-height: 50em;
+  max-height: 20em;
+}
+
+.aboutPhoto {
+  display: flex;
+  margin: 0 2.5% 0 0;
+}
+
+.aboutText {
+  display: flex;
+  font-size: 15px;
+  margin: 0 0 0 2.5%;
 }
 /* projects */
 

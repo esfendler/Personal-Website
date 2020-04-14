@@ -1,17 +1,18 @@
 import React from 'react';
 import './App.css';
 import Navbar from './components/navBar';
-import Projects from './components/Projects';
 import About from './components/About';
+import Projects from './components/Projects';
 
 function App() {
   return (
-
     // <div className="App">
     <div>
+      <header>
       <Navbar />
       <About/>
       <Projects/>
+      </header>
     </div>
   );
 }
