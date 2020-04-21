@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Navbar from './components/navBar';
 import About from './components/About';
+import Interests from './components/Interests'
 import Projects from './components/Projects';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <header>
       <Navbar />
       <About/>
+      <Interests/>
       <Projects/>
       </header>
     </div>

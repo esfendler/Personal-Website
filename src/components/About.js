@@ -12,7 +12,7 @@ import Emily from '../images/Emily.jpg'
     <img src={Emily} alt="Emily Fendler"/>
     </div>
     <div className="aboutText">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+    I am a software engineer with a background working in the data departments of nonprofits. The experience of learning Python at Candid and using this new skill to automate part of my core job responsibilities made me want to code full-time. As a recent graduate of Fullstack Academy's Grace Hopper program, I’m eager to continue following my curiosity in a new role.
     </div>
     </div>
   </div>
