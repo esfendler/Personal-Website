@@ -13,25 +13,31 @@ export default class Projects extends Component {
         <div className="projectlist">
           <div className="projectContainer">
             <img src={Picket} alt="Picket Project"/>
-
-
           <div className="projectDescription">
-
+            <div>
+              Picket
+            </div>
+            <div>
+            A progressive web app that provides a platform for grassroots organizing.
+            </div>
           </div>
           </div>
 
           <div className="projectContainer">
           <div className="projectDescription">
-
+          <div>
+              Codenames Boardgames
+            </div>
+            <div>
+            A mock e-commerce site that sells boardgames.
+            </div>
           </div>
           <img src={codeNames} alt="codeNames Project"/>
           </div>
 
-
-
         </div>
 
-      </div>
+     </div>
     )
   }
 }
