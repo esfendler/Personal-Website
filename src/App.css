@@ -119,7 +119,7 @@
   padding: 0 10em;
 }
 
-.projectTitle{
+.projectSectionTitle{
   display: flex;
   /* color: #49BEAA; */
   color: black;
@@ -157,9 +157,14 @@
   /* background: rgba(93, 133, 255, 0.2); */
   background: #b6fff3;
   width: 58.5%;
-  /* padding: 50px; */
-
+  padding: 20px;
 }
+
+.projectTitle{
+  margin-top: 8px;
+}
+
+
 
 
 

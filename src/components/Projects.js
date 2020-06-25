@@ -7,16 +7,16 @@ export default class Projects extends Component {
   render() {
     return (
       <div id="projects">
-        <h3 className="projectTitle">
+        <h3 className="projectSectionTitle">
         PROJECTS
         </h3>
         <div className="projectlist">
           <div className="projectContainer">
             <img src={Picket} alt="Picket Project"/>
-          <div className="projectDescription">
-            <div>
+          <div className="projectDescription" align="left">
+            <h3>
               Picket
-            </div>
+            </h3>
             <div>
             A progressive web app that provides a platform for grassroots organizing.
             </div>
@@ -25,9 +25,9 @@ export default class Projects extends Component {
 
           <div className="projectContainer">
           <div className="projectDescription">
-          <div>
+          <h3>
               Codenames Boardgames
-            </div>
+            </h3>
             <div>
             A mock e-commerce site that sells boardgames.
             </div>
