@@ -18,7 +18,9 @@ export default class Projects extends Component {
               Picket
             </h3>
             <div>
-            A progressive web app that provides a platform for grassroots organizing.
+            <p>A progressive web app that serves as a platform for grassroots organizing.  Users can post events, chat with other attendees and browse events by category.</p>
+            <p>Picket was created using React and Node.js.  It was audited using lighthouse in order to comply with PWA standards.</p>
+
             </div>
           </div>
           </div>
