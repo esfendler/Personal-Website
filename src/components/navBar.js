@@ -20,6 +20,9 @@ export default class Navbar extends Component {
               <li>
               <a href="#projects">PROJECTS</a>
               </li>
+              <li>
+              <a href="#contact">CONTACT</a>
+              </li>
             </ul>
         </div>
       </div>

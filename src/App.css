@@ -164,7 +164,37 @@
   margin-top: 8px;
 }
 
+/* #picketTitle{
+  display: flex;
+  flex-direction: column;
+} */
 
+
+
+#contact {
+  display: flex;
+  min-height: 100px;
+  background-color: #49BEAA;
+  color: white;
+  font-weight: bold;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 10em;
+}
+
+.contactTitle {
+  display: flex;
+  margin: 10px;
+}
+
+.downloadResumeButton {
+  display: flex;
+  margin: 0 10px 10px 10px;
+}
+
+#contact a {
+  color: white;
+}
 
 
 

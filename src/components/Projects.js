@@ -13,8 +13,8 @@ export default class Projects extends Component {
         <div className="projectlist">
           <div className="projectContainer">
             <img src={Picket} alt="Picket Project"/>
-          <div className="projectDescription" align="left">
-            <h3>
+          <div className="projectDescription" text-align="right">
+            <h3 id="picketTitle">
               Picket
             </h3>
             <div>

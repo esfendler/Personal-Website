@@ -2,8 +2,9 @@ import React from 'react';
 import './App.css';
 import Navbar from './components/navBar';
 import About from './components/About';
-import Interests from './components/Interests'
+import Interests from './components/Interests';
 import Projects from './components/Projects';
+import Contact from './components/Contact';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <About/>
       <Interests/>
       <Projects/>
+      <Contact/>
       </header>
     </div>
   );
