@@ -6,7 +6,7 @@ import Emily from '../images/Emily.jpg'
   export default class About extends Component {
     render() {
       return (
-  <div className="about">
+  <div id="about">
     <div className="aboutContent">
     <div className="aboutPhoto">
     <img src={Emily} alt="Emily Fendler"/>
