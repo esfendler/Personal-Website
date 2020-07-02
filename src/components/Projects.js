@@ -31,7 +31,8 @@ export default class Projects extends Component {
               Codenames Boardgames
           </h3>
           <div className="individualProjectText">
-            A mock e-commerce site that sells boardgames.
+            <p>A mock e-commerce site that sells boardgames.</p>
+            <div>Built with the NERD stack, users can sign in with Google, filter games by category, and check the homepage for items on sale. </div>
             </div>
           </div>
           <img src={codeNames} alt="codeNames Project"/>

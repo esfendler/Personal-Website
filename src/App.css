@@ -236,6 +236,7 @@
 
 .individualProjectText {
   display: flex;
+  flex-direction: column;
 }
 
 /* #picketTitle{
