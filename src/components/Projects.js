@@ -10,7 +10,7 @@ export default class Projects extends Component {
         <h3 className="projectSectionTitle">
         PROJECTS
         </h3>
-        <div className="projectlist">
+        <div className="projectList">
           <div className="projectContainer">
             <img src={Picket} alt="Picket Project"/>
           <div className="projectDescription" text-align="right">
@@ -25,12 +25,12 @@ export default class Projects extends Component {
           </div>
           </div>
 
-          <div className="projectContainer">
+          <div className="projectContainerReverse">
           <div className="projectDescription">
-          <h3>
+          <h3 className="individualProjectTitle">
               Codenames Boardgames
-            </h3>
-            <div>
+          </h3>
+          <div className="individualProjectText">
             A mock e-commerce site that sells boardgames.
             </div>
           </div>
