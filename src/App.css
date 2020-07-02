@@ -173,7 +173,7 @@
     flex-direction: column;
     margin:  0 0 50px;
     min-height:320px;
-    border: solid;
+    /* border: solid; */
 }
 
 .projectContainerReverse {
@@ -182,7 +182,7 @@
     align-items: center;
     margin: 0 0 50px;
     min-height:320px;
-    border: solid;
+    /* border: solid; */
 }
 
 /* .projectImgContainer {
