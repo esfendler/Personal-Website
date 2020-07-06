@@ -20,7 +20,15 @@ export default class Projects extends Component {
             <div>
             <p>A progressive web app that serves as a platform for grassroots organizing.  Users can post events, chat with other attendees and browse events by category.</p>
             <p>Picket was created using React and Node.js.  It was audited using lighthouse in order to comply with PWA standards.</p>
-            <p>VISIT | GITHUB</p>
+            <p>
+            <a href={"http://picketnow.herokuapp.com/"} target="_blank">
+              VISIT
+              </a>
+              &nbsp; | &nbsp;
+               <a href={"https://github.com/PicketNow/picket"} target="_blank">
+               GITHUB
+          </a>
+          </p>
             </div>
           </div>
           </div>
@@ -38,7 +46,7 @@ export default class Projects extends Component {
             <a href={"https://codenames-boardgames.herokuapp.com"} target="_blank">
               VISIT
               </a>
-               |
+              &nbsp; | &nbsp;
                <a href={"https://github.com/graceshopper-codename/graceshopper"} target="_blank">
                GITHUB
           </a>
