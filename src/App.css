@@ -225,6 +225,11 @@
   padding: 20px;
 }
 
+.projectDescription a {
+  /* font-weight: bold; */
+  color: black;
+}
+
 .projectTitle{
   /* display: flex; */
   margin-top: 8px;
