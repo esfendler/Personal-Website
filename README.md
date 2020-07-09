@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+emilyfendler.com
+
+The source code for emilyfendler.com, bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and hosted on Heroku.
+ .
 
 ## Available Scripts
 
