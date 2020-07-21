@@ -33,6 +33,13 @@ import Emily from '../images/Emily.jpg'
       <li>PostgreSQL</li>
     </ul>
     </div>
+    <div>
+    <ul>
+      <li>Heroku</li>
+      <li>Travis</li>
+      <li>Gatsby</li>
+    </ul>
+    </div>
     </div>
 
 
