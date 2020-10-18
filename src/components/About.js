@@ -20,21 +20,21 @@ import Emily from '../images/Emily.jpg'
     </p>
     <div className="bulletContainer">
     <div>
-    <ul>
+    <ul className="techSubList">
       <li>JavaScript</li>
       <li>React</li>
       <li>Redux</li>
     </ul>
     </div>
     <div>
-    <ul>
+    <ul className="techSubList">
       <li>Node.js</li>
       <li>Express</li>
       <li>PostgreSQL</li>
     </ul>
     </div>
     <div>
-    <ul>
+    <ul className="techSubList">
       <li>Heroku</li>
       <li>Travis</li>
       <li>Gatsby</li>
