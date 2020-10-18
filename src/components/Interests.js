@@ -9,15 +9,15 @@ export default class Interests extends Component {
         In my spare time, I enjoy...
         </div>
         <div className="interestList">
-          <div className="interestElement">
+          <span role="img" aria-label="stack of books" className="interestElement">
             Reading 📚
-          </div >
-          <div className="interestElement">
+          </span >
+          <span role="img" aria-label="frying pan" className="interestElement">
             Cooking 🍳
-          </div>
-          <div className="interestElement">
+          </span>
+          < span role="img" aria-label="foot prints" className="interestElement">
             Walking 👣
-          </div>
+          </span>
         </div>
 
 
