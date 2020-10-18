@@ -11,7 +11,7 @@ export default () => (
           className="contactPageDownloadLink"
           href="https://github.com/esfendler/Personal-Website/raw/master/Emily%20Fendler%20Resume.pdf"
           target="_blank"
-          rel="noopener norefferer"
+          rel="noopener noreferrer"
         >
           Download my resume
         </a>
@@ -24,7 +24,7 @@ export default () => (
         <a
           href="https://www.linkedin.com/in/emily-fendler/"
           target="_blank"
-          rel="noopener norefferer"
+          rel="noopener noreferrer"
           className="contact-page__link"
           style={{ width: "85px" }}
         >
@@ -34,7 +34,7 @@ export default () => (
         <a
           href="https://www.github.com/esfendler"
           target="_blank"
-          rel="noopener norefferer"
+          rel="noopener noreferrer"
           className="contact-page__link"
           style={{ width: "70px" }}
         >
