@@ -13,7 +13,7 @@ import Emily from '../images/Emily.jpg'
     </div>
     <div className="aboutText">
     <p>
-    I am a software engineer with previous work experience as a data analyst. The experience of learning Python at Candid and using this new skill to automate part of my core job responsibilities made me want to code full-time. I graduated from Fullstack Academy's Grace Hopper program earlier this year and am eager to continue following my curiosity in a new role.
+    I am a software engineer with previous work experience as a data analyst. The experience of learning Python at Candid and using this new skill to automate part of my core job responsibilities made me want to code full-time. I graduated from Fullstack Academy's Grace Hopper program in 2020 and am eager to continue following my curiosity in a new role.
     </p>
     <p>
       Here's a list of the technologies I've worked with most recently:
